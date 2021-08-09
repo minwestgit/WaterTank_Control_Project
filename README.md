@@ -8,14 +8,14 @@ IoT 기능이 탑재된 저수조와 웹/앱 어플리케이션을 이용한 실
 - 저수조의 상태가 불안정한 경우 알림
 
 ### 운영 환경
-PC : window 10 이상. 크롬 웹브라우저 기반
-Mobile : Android Jelly Bean 4.3 이상
-Web Server : apache Tomcat 7.0
+PC : window 10 이상. 크롬 웹브라우저 기반 <br>
+Mobile : Android Jelly Bean 4.3 이상 <br>
+Web Server : apache Tomcat 7.0 <br>
 Database : Mongo DB
 
 ### Skill
-ESP32 : C, C++, python, PHP, Arduino IDE
-WEB : HTML5, CSS, Javascript, PHP, PhpStorm, WinSCP, Postman
+ESP32 : C, C++, python, PHP, Arduino IDE <br>
+WEB : HTML5, CSS, Javascript, PHP, PhpStorm, WinSCP, Postman <br>
 APP : Java, PHP, Android Studio
 
 ### System Diagram
